@@ -1,6 +1,6 @@
-**RULES FOR CONTRIBUTING IN THIS REPOSITORY**
 
-# Contributing
+
+# **RULES FOR CONTRIBUTING IN THIS REPOSITORY**
 
 We love pull requests from everyone. By participating in this project, you
 agree to abide by the [Code Of Conduct]().
